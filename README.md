@@ -1,4 +1,4 @@
-# cfgen
+# cfgen中文优化版本
 
 Uses a combination of Markov chains and a context-free grammar to generate random sentences with features of both language models.
 
